@@ -1,2 +1,6 @@
-# Battleship
-Battleship board game project. For practice with Javascript, Webpack, Jest and Test Driven Development.
+# projectTemplate
+Project template to quickly get started on future projects
+
+- Webpack
+- Jest
+- Babel
